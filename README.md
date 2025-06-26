@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning React, Next, Ts / Js
+- 🌱 I’m currently learning Java, SpringBoot
 
 
 
